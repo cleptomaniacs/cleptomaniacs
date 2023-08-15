@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Software development and Machine learning
 - 📫 How to reach me : 
 Email: meshackbenard20@gmail.com,
-Phone: +255 712 420 676, +255 738 325 921
+Phone: +255 752 765 093
 
 <!---
 cleptomaniacs/cleptomaniacs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
